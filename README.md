@@ -19,3 +19,6 @@ activate wineq
 8th step: dvc add data_given/winequality.csv
 
 9th step: git add . && git commit -m "first commit"
+
+9th step: git add . && git commit -m "first commit"
+9th step: git add . && git commit -m "first commit"
