@@ -11,3 +11,4 @@ numpy
 joblib
 pytest
 tox
+flake8
