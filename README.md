@@ -32,3 +32,23 @@
 
 // dvc metrics diff
 
+**Tox Command**
+
+tox
+
+**For Rebuilding**
+
+tox -r
+
+**Pytest Command**
+
+pytest -v
+
+**Setup Command**
+
+pip install -e . 
+
+**build your own package commands-**
+
+python setup.py sdist bdist_wheel
+
