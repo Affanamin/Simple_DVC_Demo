@@ -1,25 +1,34 @@
-create env
-
+###### First of all create environment through given Command
 '''
-conda create -n wineq python=3.7 -y
+**conda create -n wineq python=3.7 -y**
 '''
-
-activate env
-
-''' bash
-activate wineq
+###### Then activate environment through given command
 '''
+**activate wineq**
+'''
+###### Then create "template.py" file; Where we present structure of application 
 
-5th step: git init
+###### Apply Commands
+**git init**
 
-6th step: pip install dvc
+**pip install dvc**
 
-7th step: dvc init
+**dvc init**
 
-8th step: dvc add data_given/winequality.csv
+###### Add Data in the given location
+**dvc add data_given/winequality.csv**
 
-9th step: git add . && git commit -m "first commit"
+###### Then Commit your Code
+**git add . && git commit -m "first commit"**
 
-9th step: git add . && git commit -m "first commit"
+###### Add code to your github repository
+**git push origin main**
 
-9th step: git add . && git commit -m "first commit"
+##### Other Important Commands
+
+// dvc repro
+
+// dvc metrics show
+
+// dvc metrics diff
+
