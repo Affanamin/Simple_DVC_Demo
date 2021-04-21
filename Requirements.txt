@@ -5,3 +5,5 @@ pandas
 PyYAML
 numpy
 joblib
+pytest
+tox
