@@ -15,3 +15,4 @@ flake8
 flask
 gunicorn
 pyyaml
+mlflow
