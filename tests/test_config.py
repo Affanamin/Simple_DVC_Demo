@@ -37,7 +37,7 @@ input_data = {
 
     "incorrect_col":
     {"fixed aciiidity": 5,
-    "volatile aciidity": 1,
+    "volatile acissidity": 1,
     "citric aciid": 0.5,
     "residual suggar": 10,
     "chlorides": 0.5,
