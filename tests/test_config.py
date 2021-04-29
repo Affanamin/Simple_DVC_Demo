@@ -36,10 +36,10 @@ input_data = {
     },
 
     "incorrect_col":
-    {"fixed acidity": 5,
-    "volatile acidity": 1,
-    "citric acid": 0.5,
-    "residual sugar": 10,
+    {"fixed aciidity": 5,
+    "volatile aciidity": 1,
+    "citric aciid": 0.5,
+    "residual suggar": 10,
     "chlorides": 0.5,
     "free sulfur dioxide": 3,
     "total_sulfur dioxide": 75,
